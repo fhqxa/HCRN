@@ -1,5 +1,5 @@
 # HCRN
-HCRN full name is Hierarchical Few-shot Learning Based on Coarse and Fine-grained Relation Network.
+HCRN full name is Hierarchical Few-shot Learning Based on Coarse- and Fine-grained Relation Network.
 
 # Datasets
 [Omniglot](https://github.com/floodsung/LearningToCompare_FSL/blob/master/datas/omniglot_28x28.zip)
