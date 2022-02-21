@@ -80,7 +80,7 @@ We report average results with 2,000 randomly sampled episodes.
     <td>HCRN</td>
     <td align="center">99.9</td>
     <td align="center">99.9</td>
-    <td align="center">98.0td>
+    <td align="center">98.0</td>
     <td align="center">99.7</td>
   </tr>
 </table>
