@@ -53,7 +53,7 @@ We report average results with 2,000 randomly sampled episodes.
 <table>
   <tr>
     <td>datasets</td>
-    <td colspan="2" align="center">Ominiglot</td>
+    <td colspan="4" align="center">Ominiglot</td>
   </tr>
   <tr>
     <td>setups</td>
