@@ -1,5 +1,5 @@
 # HCRN
-HCRN full name is Hierarchical Few-shot Learning Based on Coarse- and Fine-grained Relation Network.
+[HCRN full name is Hierarchical Few-shot Learning Based on Coarse- and Fine-grained Relation Network.](https://link.springer.com/article/10.1007/s10462-022-10223-3)
 
 # Datasets
 [Omniglot](https://github.com/floodsung/LearningToCompare_FSL/blob/master/datas/omniglot_28x28.zip)
@@ -111,6 +111,21 @@ We report average results with 2,000 randomly sampled episodes.
     <td align="center">78.06</td>
   </tr>
 </table>
+
+## :scroll: Citing HFFDK
+If you find our code or paper useful to your research work, please consider citing our work using the following bibtex:
+```
+@article{wu2023hierarchical,
+  title={Hierarchical few-shot learning based on coarse-and fine-grained relation network},
+  author={Wu, Zhiping and Zhao, Hong},
+  journal={Artificial Intelligence Review},
+  volume={56},
+  number={3},
+  pages={2011--2030},
+  year={2023},
+  publisher={Springer}
+}
+```
 
 ## Reference
 [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025)
